@@ -339,7 +339,7 @@ const contactInfo = {
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+91-8806928544",
   email_address: "rumanmalim15@gmail.com",
-  display:true
+  
 };
 
 // Twitter Section
