@@ -67,7 +67,7 @@ const Main = () => {
             <Profile />
             <Footer />
             <ScrollToTopButton />
-            <Contact/>
+            
           </>
         )}
       </StyleProvider>
